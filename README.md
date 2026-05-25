@@ -1,47 +1,36 @@
-# Hi, I'm Yousra Al-Dabbas! 👋
+<div align="center">
+  <h1>Hi, I'm Yousra Al-Dabbas! 👋</h1>
+  <p><h3>Python Developer | Web Scraping & Data Analysis Specialist</h3></p>
+</div>
 
-I am a Python Developer specializing in Web Scraping and Data Analysis. 🚀
+<hr />
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai)](https://github.com/piyushsuthar/github-readme-quotes)
+<h2>🛠 Tools and Technologies</h2>
+<ul>
+  <li><strong>Language:</strong> Python</li>
+  <li><strong>Database:</strong> PostgreSQL</li>
+  <li><strong>Version Control & Editors:</strong> Git | VS Code</li>
+</ul>
 
-## 🛠 Tools and Technologies
+<h2>📖 What I am currently learning / improving on</h2>
+<ul>
+  <li><strong>Data Analysis:</strong> Pandas | NumPy</li>
+  <li><strong>Web Automation:</strong> Selenium</li>
+</ul>
 
-<a name="learning-now"></a>
+<h2>👾 What I am interested in learning at some point</h2>
+<ul>
+  <li><strong>Advanced Scraping:</strong> Scrapy</li>
+  <li><strong>NoSQL Database:</strong> MongoDB</li>
+  <li><strong>DevOps:</strong> Docker</li>
+</ul>
 
-[<img src="https://shields.io" alt="Python logo" title="Python" height="25" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://shields.io" alt="PostgreSQL logo" title="PostgreSQL" height="25" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" />][tech_tools_anchor]
+<hr />
 
-## 📖 What I am currently learning / improving on
-
-[<img src="https://shields.io" alt="Pandas logo" title="Pandas" height="25" />][learning_now_anchor]
-&nbsp;
-[<img src="https://shields.io" alt="NumPy logo" title="NumPy" height="25" />][learning_now_anchor]
-&nbsp;
-[<img src="https://shields.io" alt="Selenium logo" title="Selenium" height="25" />][learning_now_anchor]
-
-## 👾 What I am interested in learning at some point
-
-[<img src="https://shields.io" alt="Scrapy logo" title="Scrapy" height="25" />][learning_next_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" />][learning_next_anchor]
-&nbsp;
-[<img src="https://shields.io" alt="Docker logo" title="Docker" height="25" />][learning_next_anchor]
-
-## 🔍 Where to find me
-
-[<img src="https://shields.io" alt="GitHub logo" title="GitHub" height="25" />](https://github.com)
-
-[tech_tools_anchor]: #hi-im-yousra-al-dabbas-
-[learning_now_anchor]: #learning-now
-[learning_next_anchor]: #learning-next
+<h2>🔍 Where to find me</h2>
+<ul>
+  <li>
+    🐙 <strong>GitHub Profile:</strong> 
+    <a href="https://github.com" target="_blank">ys745528-maker</a>
+  </li>
+</ul>
